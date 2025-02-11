@@ -23,4 +23,4 @@
 - [Smart Home](https://github.com/TommasoNocchi/SmartHome)
 - [Driver Behaviour Detection](https://github.com/TommasoNocchi/deepLearning_CarBehaviourNN)
 - [Search Engine](https://github.com/TommasoNocchi/SearchEngine)
-- [Fitness Social Network](https://github.com/TommasoNocchi/LSMDB_Project)
+- [Diet Manager](https://github.com/TommasoNocchi/LSMDB_Project)
