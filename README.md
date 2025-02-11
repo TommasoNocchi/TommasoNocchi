@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Tommaso!
 
-<!--
-**TommasoNocchi/TommasoNocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work and Education
 
-Here are some ideas to get you started:
+- 🔧 Currently, I'm a **Big Data and Cloud Engineer**
+- 🎓 Graduated with honors in **Master of AI and Data Engineering**
+- 🎓 Bachelor's degree in **Computer Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Passions
+
+- 🌱 Always learning and staying updated in the field of **AI**
+- 👯 Open to **collaborations and exciting AI projects**
+- 🎵 **Music addicted**
+- 🌊 **Sea and waves lover**
+
+
+## Projects (Partial List)
+
+- [Distraction Pedestrian System](https://github.com/TommasoNocchi/DistractionPedestrianSystem)
+- [Bloom Filter](https://github.com/TommasoNocchi/BloomFilter)
+- [ClickBait Detection](https://github.com/TommasoNocchi/ClickBaitDetection)
+- [Safe Car System](https://github.com/TommasoNocchi/SafeCarSystem)
+- [Smart Home](https://github.com/TommasoNocchi/SmartHome)
+- [Driver Behaviour Detection](https://github.com/TommasoNocchi/deepLearning_CarBehaviourNN)
+- [Search Engine](https://github.com/TommasoNocchi/SearchEngine)
+- [Fitness Social Network](https://github.com/TommasoNocchi/LSMDB_Project)
